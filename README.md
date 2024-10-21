@@ -50,10 +50,19 @@ This project demonstrates the migration of an e-learning platform from a monolit
 - Data was transferred in phases to minimize downtime.
 - Validation checks were run post-migration to ensure data integrity.
 
+## ADF Pipelines
+
+This repository contains JSON files for 5 Azure Data Factory (ADF) pipelines that are ready for use.
+
+
 ## Repository Structure
 
 ```plaintext
 ├── azure-data-factory-pipelines/
-│   └── adf_pipeline_config.json   # JSON config files for ADF pipelines
+│   --Amazon_Pipelines        # JSON config files for ADF pipelines
+    --Amdocs_Pipelines        # JSON config files for ADF pipelines
+    --Hpegsr_Pipelines        # JSON config files for ADF pipelines
+    --LTI_Mindtree_Pipelines  # JSON config files for ADF pipelines
+    --Socgen_Pipelines        # JSON config files for ADF pipelines
 └── README.md                      # Project documentation
 
