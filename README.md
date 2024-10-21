@@ -52,13 +52,13 @@ This project demonstrates the migration of an e-learning platform from a monolit
 
 ## ADF Pipelines
 
-This repository contains JSON files for 5 Azure Data Factory (ADF) pipelines that are ready for use.
+This repository contains JSON files for 5 complete clients' Azure Data Factory (ADF) pipelines that are ready for use.
 
 
 ## Repository Structure
 
 ```plaintext
-├── azure-data-factory-pipelines/
+├── azure-data-factory-pipelines.zip/
 │   --Amazon_Pipelines        # JSON config files for ADF pipelines
     --Amdocs_Pipelines        # JSON config files for ADF pipelines
     --Hpegsr_Pipelines        # JSON config files for ADF pipelines
