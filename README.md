@@ -12,7 +12,7 @@ This project demonstrates the migration of an e-learning platform from a monolit
 
 ## Architectural Diagram
 
-![Architecture Diagram](https://github.com/aravindrajamani/SQLServer-Macro-Service-Architecture--to-PostgreSQL-Microservice-Architecture-Migration/blob/main/Untitled%20Diagram%20(2).jpg)
+![Architecture Diagram](https://github.com/aravindrajamani/SQLServer-Macro-Service-Architecture--to-PostgreSQL-Microservice-Architecture-Migration/blob/main/Untitled%20Diagram.jpg)
 
 
 
