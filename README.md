@@ -64,5 +64,11 @@ This repository contains JSON files for 5 complete clients' Azure Data Factory (
     --Hpegsr_Pipelines        # JSON config files for ADF pipelines
     --LTI_Mindtree_Pipelines  # JSON config files for ADF pipelines
     --Socgen_Pipelines        # JSON config files for ADF pipelines
+|__ SQL_Scripts.zip/
+     --Amazon_SQL_Script      # contains all Amazon query context       
+    --Amdocs_SQL_Script       # contains all Amdocs query context 
+    --Hpegsr_SQL_Script       # contains all Hpegsr query context
+    --LTI_Mindtree_SQL_Script # contains all LTI_Mindtree query context 
+    --Socgen_SQL_Srcipt       # contains all Socgen query context
 └── README.md                      # Project documentation
 
